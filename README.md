@@ -1,4 +1,3 @@
-```markdown
 # Face Recognition and Heart Rate Measurement Project
 
 ## Description
